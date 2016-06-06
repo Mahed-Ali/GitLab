@@ -14,6 +14,7 @@ public class Minimum {
 	      System.out.println("Minimum Value = " + c);
 	      System.out.println("Minimum Value = " + c);
 	      System.out.println("Minimum Value = " + c);
+	      System.out.println("Minimum Value = " + c);
 	      
 	      
 		
