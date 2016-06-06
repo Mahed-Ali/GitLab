@@ -11,6 +11,9 @@ public class Minimum {
 	          
 	      int c = minFunction(a, b);
 	      System.out.println("Minimum Value = " + c);
+	      System.out.println("Minimum Value = " + c);
+	      System.out.println("Minimum Value = " + c);
+	      System.out.println("Minimum Value = " + c);
 	      
 	      
 		
